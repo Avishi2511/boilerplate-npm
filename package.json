@@ -11,5 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Avishi"
+	"author": "Avishi",
+	"description": "Practice",
+	"keywords": ["descriptive", "related", "words" ],
+	"version": "1.2.0"
 }
